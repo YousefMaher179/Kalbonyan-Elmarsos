@@ -15,4 +15,4 @@
 - Learning about other languages
 -------------------------------
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](![1670679330716](https://github.com/YousefMaher179/Kalbonyan-Elmarsos/assets/106788176/00f14f49-0e27-4a9a-9510-9329d4c8c24c)
