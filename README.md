@@ -96,12 +96,12 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Projects
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 |status| Project  | Technologies | Repository                                    | Demo |
 | ---  | -------- | ------------ | --------------------------------------------- | ---- |
-| [ ]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo]() |
-| [ ]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo]() |
-| [ ]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo]() |
-| [ ]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo]() |
+| [ ]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo](https://yousefmaher179.github.io/Appie/) |
+| [ ]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo](https://yousefmaher179.github.io/Task-of-level-2/) |
+| [ ]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo](https://cars-strore.web.app/) |
+| [ ]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo](https://notes-application-n7uy.onrender.com) |
 
 
