@@ -6,7 +6,7 @@
 
 |  #  |                          Project Code                           |   Live Demo   |
 | :-: | :-------------------------------------------------------------: | :-----------: |
-| 01  |         [Form Validator](./Projects/01-Form-Validator/)         | [Live Demo]() |
+| 01  |         [Form Validator](./Projects/01-Form-Validator/)         | [Live Demo](https://yousefmaher179.github.io/FormValidator/)|
 | 02  |     [Movie Seat Booking](./Projects/02-Movie-Seat-Booking/)     | [Live Demo]() |
 | 03  |    [Custom Video Player](./Projects/03-Custom-Video-Player/)    | [Live Demo]() |
 | 04  |    [Exchange Rate Calculator](./Projects/04-Exchange-Rate/)     | [Live Demo]() |
