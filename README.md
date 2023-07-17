@@ -85,7 +85,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 <span id="AWS"></span>
 
-# LEARN ABOUT CLOUD PROVIDER and SERVERLESS
+# LEARN ABOUT SERVERLESS
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 
