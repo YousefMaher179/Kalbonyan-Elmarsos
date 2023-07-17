@@ -1,0 +1,21 @@
+.counter {
+  display: flex;
+}
+.add-sub {
+  background-color: #741906;
+  color: #fff;
+  padding: 0.3rem 1.2rem;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 2.4rem;
+  font-weight: 400;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.number {
+  background-color: #fff;
+  color: #741906;
+  padding: 0.3rem 1.4rem;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 2.4rem;
+  font-weight: 400;
+}

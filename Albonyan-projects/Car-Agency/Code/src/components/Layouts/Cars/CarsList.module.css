@@ -1,0 +1,29 @@
+.car-lists {
+  padding-top: 2.4rem;
+  width: 80%;
+  margin: 0 auto;
+}
+.container {
+  /* display: flex;
+  flex-direction: column; */
+  padding: 6.4rem 0;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.header h1 {
+  font-size: 12rem;
+  font-weight: 700;
+  line-height: 8rem;
+  color: #ebebeb;
+}
+.header p {
+  color: #741906;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 6rem;
+  transform: translate(0%, -50%);
+}

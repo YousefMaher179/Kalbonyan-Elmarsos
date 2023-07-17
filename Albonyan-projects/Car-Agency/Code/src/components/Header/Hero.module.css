@@ -1,0 +1,8 @@
+.hero {
+  background-image: url(../../assests/Background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  max-width: 100%;
+  height: 100vh;
+}

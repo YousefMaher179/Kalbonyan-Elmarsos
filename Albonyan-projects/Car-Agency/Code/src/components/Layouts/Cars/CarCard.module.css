@@ -1,0 +1,71 @@
+.card-container {
+  width: 38rem;
+  padding: 3.6rem 4.8rem;
+  margin: 3rem auto;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 55rem;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.details img {
+  width: 100%;
+}
+.description {
+  height: 30%;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #232222f5;
+  margin-bottom: 3.6rem;
+}
+.details h3 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 3.2rem;
+  color: #741906;
+  margin-bottom: 0.5rem;
+}
+.details span {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6rem;
+  color: #232222f5;
+  margin-bottom: 1.2rem;
+}
+.details p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #232222f5;
+  margin-bottom: 3.6rem;
+}
+.car-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.car-container {
+  display: flex;
+  flex-direction: column;
+}
+.car {
+  display: flex;
+  gap: 1.4rem;
+}
+.car p {
+  font-family: "Nunito Sans", sans-serif;
+  color: #741906;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.9rem;
+}

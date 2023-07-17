@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700;800;900;1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Lora", sans-serif;
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  width: 1.4rem;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #741806;
+}
+
+@media (min-width: 150em) {
+  html {
+    font-size: 100%;
+  }
+}
+@media (max-width: 150em) and (min-width: 115em) {
+  html {
+    font-size: 85%;
+  }
+}
+@media (max-width: 115em) and (min-width: 100em) {
+  html {
+    font-size: 75%;
+  }
+}
+@media (max-width: 100em) {
+  html {
+    font-size: 56.25%;
+  }
+}
+@media (max-width: 83em) {
+  html {
+    font-size: 50%;
+  }
+}
+@media (max-width: 72em) {
+  html {
+    font-size: 43.75%;
+  }
+}
+@media (max-width: 60.5em) {
+  html {
+    font-size: 37.5%;
+  }
+}
+@media (max-width: 35.5em) {
+  html {
+    font-size: 31.25%;
+  }
+}
+@media (max-width: 29.5em) {
+  html {
+    font-size: 25%;
+  }
+}
+/*@media (max-width: 77.5em) {
+  html {
+    font-size: 43.75%;
+  }
+}
+@media (max-width: 72em) {
+  html {
+    font-size: 37.5%;
+  }
+} */

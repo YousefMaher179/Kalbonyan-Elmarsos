@@ -1,0 +1,59 @@
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 20;
+  background-color: rgba(0, 0, 0, 0.37);
+}
+
+.modal {
+  position: fixed;
+  top: 13%;
+  right: 0;
+  width: 100%;
+  height: 90vh;
+  background-color: #12273db6;
+  padding: 2.4rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 30;
+  animation: slide-down 300ms ease-out forwards;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  overflow: scroll;
+}
+
+.delete-btn {
+  background-color: #741906;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  font-family: "Nunito Sans", sans-serif;
+  gap: 1.2rem;
+  color: #ffffff;
+  padding: 0.5rem 2.4rem;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .modal {
+    width: 50rem;
+  }
+}
+
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateX(4rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

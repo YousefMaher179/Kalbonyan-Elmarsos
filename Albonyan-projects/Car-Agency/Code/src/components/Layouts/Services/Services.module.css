@@ -1,0 +1,89 @@
+.services {
+  background-image: url(../../../assests/CTA\ BG.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #dfdfdf;
+  padding: 6.4rem 9.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  animation: slide-down 1000ms ease-out forwards;
+}
+.services-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.services-header span {
+  font-size: 12rem;
+  font-weight: 700;
+  color: #ebebeb;
+}
+.services-header p {
+  font-size: 4.8rem;
+  font-weight: 700;
+  transform: translate(0%, -100%);
+  color: #000;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9.6rem;
+  padding-left: 6.4rem;
+  margin-bottom: 3.6rem;
+}
+.services-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 4.8rem;
+}
+.card-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+.services-card svg {
+  width: 8rem;
+  height: 8rem;
+}
+.card-details h2 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  font-family: "Nunito Sans", sans-serif;
+  line-height: 2.4rem;
+  letter-spacing: 5%;
+}
+.card-details p {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 400;
+  font-family: "Nunito Sans", sans-serif;
+  line-height: 2.4rem;
+  letter-spacing: -0.5%;
+}
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(6rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (max-width: 40em) {
+  .container {
+    flex-direction: column;
+  }
+  .card-details p {
+    text-align: center;
+  }
+}
