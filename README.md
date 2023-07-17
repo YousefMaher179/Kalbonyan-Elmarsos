@@ -91,7 +91,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 - [x] `Done` `4h27m` - 17 - [Serverless Functions with Netlify | YouTube ](04-Serverless-Functions-Netlify)
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-4h30m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-4h27m-blue">
 <br />
 
 # Projects
