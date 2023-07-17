@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: #009578;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  gap: 3rem;
+}
+h1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  color: #fff;
+}
+.kanban {
+  display: flex;
+  justify-content: space-around;
+  max-width: 100%;
+  align-items: flex-start;
+}
+
+.kanban__column {
+  padding: 1rem;
+  border-radius: 1rem;
+  width: 30rem;
+}
+
+.kanban__column:not(:last-child) {
+  margin-right: 3rem;
+}
+
+.kanban__column-title {
+  margin-bottom: 2rem;
+  font-size: 3rem;
+  color: white;
+  user-select: none;
+  text-align: center;
+}
+.kanban__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  padding: 1rem 1.5rem;
+  box-sizing: border-box;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+.kanban__item-input {
+  border: none;
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+.kanban__item-input:focus {
+  outline: 0;
+}
+.kanban__item-input::placeholder {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.edit,
+.remove {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
+.kanban__dropzone {
+  height: 1rem;
+  transition: background 0.15s, height 0.15s;
+}
+
+.kanban__dropzone--active {
+  height: 3rem;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.kanban__add-item {
+  width: 100%;
+  padding: 1rem 1.6rem;
+  color: white;
+  background: rgba(0, 0, 0, 0.1);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/*for small laptop and ipad and taplet*/
+@media (max-width: 940px) {
+  html {
+    font-size: 50%;
+  }
+}
+@media (max-width: 800px) {
+  html {
+    font-size: 40%;
+  }
+}
+@media (max-width: 720px) {
+  html {
+    font-size: 35%;
+  }
+}
+@media (max-width: 650px) {
+  html {
+    font-size: 30%;
+  }
+}
+@media (max-width: 490px) {
+  html {
+    font-size: 52%;
+  }
+  .kanban {
+    flex-direction: column;
+    gap: 5rem;
+  }
+  .kanban__column {
+    width: 100%;
+  }
+}
+@media (max-width: 450px) {
+  html {
+    font-size: 45%;
+  }
+}
+@media (max-width: 420px) {
+  html {
+    font-size: 40%;
+  }
+}
+@media (max-width: 380px) {
+  html {
+    font-size: 30%;
+  }
+}
+@media (max-width: 280px) {
+  html {
+    font-size: 25%;
+  }
+}
+@media (max-width: 200px) {
+  html {
+    font-size: 20%;
+  }
+}
