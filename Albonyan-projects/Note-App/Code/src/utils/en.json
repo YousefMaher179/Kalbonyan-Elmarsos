@@ -1,0 +1,48 @@
+{
+  "userCard": {
+    "hi": "Hi, ",
+    "editBtn": "Modify User Info",
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "sign": {
+    "title": "SignUp",
+    "name": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "phone": "Phone",
+    "birth": "BirthYear",
+    "complete": "Complete Signup",
+    "back": "Back",
+    "submit": "Submit",
+    "have": "Already have an account?",
+    "dhave": "dosen't have an account?",
+    "login": "Login",
+    "signup": "SignUp"
+  },
+  "userInfo": {
+    "title": "Modify User Information",
+    "error": "Error",
+    "msg": "Provide All Values",
+    "email": "Email",
+    "name": "Name",
+    "password": "Password",
+    "phone": "Phone",
+    "birth": "BirthdayYear",
+    "submit": "Save Changes",
+    "placeholerPassword": "Write anything You Can't Edit Password!"
+  },
+  "dashboard": {
+    "add": "Create a new note...",
+    "error": "Error",
+    "msg": "You Must Be LoggedIn",
+    "msgAdd": "Add a value to Todo",
+    "remain": "items left",
+    "all": "All",
+    "active": "Active",
+    "completed": "Completed",
+    "clear": "Clear Completed",
+    "empty": "Empty, Let's add one"
+  }
+}

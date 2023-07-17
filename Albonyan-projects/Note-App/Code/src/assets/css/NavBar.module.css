@@ -1,0 +1,143 @@
+.dark {
+  background-color: #241229;
+}
+.container {
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.headerName {
+  font-size: 3.6rem;
+  font-weight: 600;
+  color: #d375b8;
+  margin-top: 1rem;
+}
+.logoHeader {
+  width: 4.6rem;
+  height: 4.6rem;
+  margin-top: 1rem;
+}
+.buttonsContainer {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.langBtn {
+  color: #d375b8;
+  border: none;
+  background-color: transparent;
+  font-size: 4rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 0.9rem;
+}
+.darkBtn {
+  color: #d375b8;
+  cursor: pointer;
+  width: 6rem;
+  height: 4rem;
+}
+.lightBtn {
+  color: #d375b8;
+  cursor: pointer;
+  width: 6rem;
+  height: 4rem;
+}
+.userBtn {
+  color: #d375b8;
+  cursor: pointer;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+@media (max-width: 45.2em) {
+  .headerName {
+    font-size: 2.8rem;
+  }
+  .logoHeader {
+    width: 3.6rem;
+    height: 3.6rem;
+  }
+  .buttonsContainer {
+    gap: 0.5rem;
+  }
+  .langBtn {
+    font-size: 3.2rem;
+  }
+  .darkBtn,
+  .lightBtn {
+    width: 4rem;
+    height: 3rem;
+  }
+  .userBtn {
+    width: 3rem;
+    height: 2.5rem;
+  }
+}
+
+@media (max-width: 28.9em) {
+  .headerName {
+    font-size: 2.2rem;
+  }
+  .logoHeader {
+    width: 3rem;
+    height: 3rem;
+  }
+  .langBtn {
+    font-size: 2.8rem;
+  }
+  .darkBtn,
+  .lightBtn {
+    width: 3.5rem;
+    height: 3rem;
+  }
+  .userBtn {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+}
+@media (max-width: 23.9em) {
+  .headerName {
+    font-size: 1.8rem;
+  }
+  .logoHeader {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .langBtn {
+    font-size: 2.4rem;
+  }
+  .darkBtn,
+  .lightBtn {
+    width: 3.2rem;
+    height: 2.8rem;
+  }
+  .userBtn {
+    width: 2.2rem;
+    height: 2.2rem;
+  }
+}
+@media (max-width: 19.5em) {
+  .headerName {
+    font-size: 1.2rem;
+  }
+  .logoHeader {
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+  .langBtn {
+    font-size: 2rem;
+  }
+  .darkBtn,
+  .lightBtn {
+    width: 2.6rem;
+    height: 2.4rem;
+  }
+  .userBtn {
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+}
