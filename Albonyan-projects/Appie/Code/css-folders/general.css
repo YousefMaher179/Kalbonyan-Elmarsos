@@ -1,0 +1,103 @@
+/*
+----01 TYPOGARPHY SYSTEM:
+
+
+ --LINE HIGHT:
+ -DEFAULT=1
+
+--FONT SIZE (px)
+-10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+
+
+-----02 COLOR:
+-PRIMARY:
+
+-TINTS:
+-SHADES:
+-ACCENTS:
+-GREYS: 
+        
+
+
+---- 05 shadows 
+ 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+
+----06 border-radius
+--default:9px
+--11px
+
+
+--letter spacing
+-0.75px
+- -0.5px
+
+----07 white-space
+
+--SPACING SYSTEM (px)
+- 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+}
+.center {
+  text-align: center;
+}
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding-top: 9.6rem;
+}
+.container--2 {
+  max-width: 120rem;
+  margin: 0 auto;
+  margin-bottom: 9.6rem;
+}
+.container--3 {
+  max-width: 120rem;
+  margin: 0 auto;
+  margin-bottom: 2.4rem;
+}
+.container--4 {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding-top: 12rem;
+}
+.grid {
+  display: grid;
+  column-gap: 3.2rem;
+  row-gap: 3.2rem;
+}
+.grid--2-cols {
+  grid-template-columns: repeat(2, 1fr);
+}
+.grid--3-cols {
+  grid-template-columns: repeat(3, 1fr);
+}
+.grid--4-cols {
+  grid-template-columns: repeat(4, 1fr);
+}
+.margin-right-sm {
+  margin-right: 1.6rem !important;
+}
+strong {
+  font-weight: 500;
+}
+hr {
+  opacity: 35%;
+  margin-bottom: 1.6rem;
+}
