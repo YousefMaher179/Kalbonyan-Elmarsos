@@ -1,4 +1,4 @@
 # Appie 
-[Demo](https://omnifood-yousef179.netlify.app/)
+[Demo](https://yousefmaher179.github.io/Appie/)
 
 [Code](./Code/)
