@@ -7,32 +7,32 @@
 ### Calculator (S6)
 
 - [Project Code](./Projects/01-Calculator/)
-- [Live Demo]()
+- [Live Demo](https://yousefmaher179.github.io/Calculator-app/)
 
 ### Favorite Movies (S7)
 
 - [Project Code](./Projects/02-Favorite-Movies/)
-- [Live Demo]()
+- [Live Demo](https://yousefmaher179.github.io/Your-Fav-Movies/)
 
 ### Mini Shop (S10)
 
 - [Project Code](./Projects/03-Mini-Shop/)
-- [Live Demo]()
+- [Live Demo](https://yousefmaher179.github.io/mini-shop/)
 
 ### Project Planner (S14)
 
 - [Project Code](./Projects/04-Project-Planner/)
-- [Live Demo]()
+- [Live Demo](https://yousefmaher179.github.io/Project-planner/)
 
 ### Posts (S19)
 
 - [Project Code](./Projects/05-Posts/)
-- [Live Demo]()
+- [Live Demo](https://yousefmaher179.github.io)
 
 ### Map (S29)
 
 - [Project Code](./Projects/06-Map/)
-- [Live Demo]()
+- [Live Demo](https://share-place-application.web.app/)
 
 ---
 
