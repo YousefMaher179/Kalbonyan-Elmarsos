@@ -45,5 +45,5 @@
 
 [Course-Link](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-8fba97a8-60ef-4dce-bbfc-78764f3c68a4.jpg?v=1685841342000)
 <br>
