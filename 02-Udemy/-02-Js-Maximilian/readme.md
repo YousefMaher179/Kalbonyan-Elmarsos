@@ -27,7 +27,7 @@
 ### Posts (S19)
 
 - [Project Code](./Projects/05-Posts/)
-- [Live Demo](https://yousefmaher179.github.io)
+- [Live Demo](https://yousefmaher179.github.io/fetch-posts/)
 
 ### Map (S29)
 
