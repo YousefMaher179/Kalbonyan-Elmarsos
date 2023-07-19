@@ -74,7 +74,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 - ## Mern
 
-- [ ] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
+- [x] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
       <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-109h1m-blue">
