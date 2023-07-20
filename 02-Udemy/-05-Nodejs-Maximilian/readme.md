@@ -45,5 +45,5 @@
 
 [Course-Link](https://www.udemy.com/course/nodejs-the-complete-guide/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-acd88038-bccb-415b-bb2c-0e9c4e6009b7.jpg?v=1689870117000)
 <br>
