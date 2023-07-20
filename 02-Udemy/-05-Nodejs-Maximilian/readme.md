@@ -30,7 +30,7 @@
 
 - [S25- Rest API](./Projects/02-Social-Feed/S25-%20Rest%20API/)
 - [S27- Web Socket](./Projects/02-Social-Feed/S27-%20Web%20Socket/)
-- [S28- Graphql](./Projects/02-Social-Feed/S28%20-%20Graphql/)
+- [S28- Graphql](02-Udemy/-05-Nodejs-Maximilian/Projects/02-Social-Feed/S28-GraphQl)
 
 #### [Finished Live Demo]()
 
