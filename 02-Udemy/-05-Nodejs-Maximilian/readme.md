@@ -22,7 +22,7 @@
 - [S23- Payment](./Projects/01-Shop/S23-%20Payment/)
 - [S29- Deployment](./Projects/01-Shop/S29-%20Deployment/)
 
-#### [Finished Live Demo]()
+#### [Finished Live Demo](https://shop-app-zkq2.onrender.com)
 
 ### Social Feed (S25 - S28)
 
