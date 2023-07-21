@@ -70,7 +70,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 - ## NodeJs
 
-- [ ] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](02-Udemy/-05-Nodejs-Maximilian/)
+- [x] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](02-Udemy/-05-Nodejs-Maximilian/)
 
 - ## Mern
 
