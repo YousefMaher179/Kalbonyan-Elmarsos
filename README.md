@@ -60,21 +60,21 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # LEARN JAVASCRIPT (MERN = MongoDB, Express.js, React.js, NodeJS)
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <span id="MERN"></span>
 <br />
 
 - ## ReactJs
 
-- [ ] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
+- [x] `Done` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
 
 - ## NodeJs
 
-- [x] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](02-Udemy/-05-Nodejs-Maximilian/)
+- [x] `Done` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](02-Udemy/-05-Nodejs-Maximilian/)
 
 - ## Mern
 
-- [x] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
+- [x] `Done` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
       <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-109h1m-blue">
