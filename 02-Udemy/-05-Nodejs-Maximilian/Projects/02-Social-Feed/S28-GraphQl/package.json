@@ -1,0 +1,53 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "setup-production": "npm run install-client && npm run build-client && npm install",
+    "install-client": "cd client && npm install",
+    "build-client": "cd client && npm run build",
+    "app": "nodemon app.js --ignore client",
+    "client": "npm start --prefix client",
+    "start": "concurrently --kill-others-on-fail \"npm run app \"\" npm run client\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "compression": "^1.7.4",
+    "connect-flash": "^0.1.1",
+    "connect-mongodb-session": "^3.1.1",
+    "csurf": "^1.11.0",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "express-handlebars": "3.0",
+    "express-session": "^1.17.3",
+    "express-validator": "^7.0.1",
+    "graphql": "^15.8.0",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.3.5",
+    "nodemailer": "^6.9.3",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "pdfkit": "^0.13.0",
+    "pug": "^3.0.2",
+    "sequelize": "^6.32.0",
+    "socket.io": "^4.7.1",
+    "stripe": "^12.10.0",
+    "url": "^0.11.1"
+  },
+  "keywords": [],
+  "description": ""
+}
