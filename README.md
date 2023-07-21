@@ -10,7 +10,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 - <a href="#Fundamentals">Learn Programing Fundamentals ,HTMl and CSS </a>
 - <a href="#js">LEARN JAVASCRIPT</a>
 - <a href="#MERN">Learn MERN Stack</a>
-- <a href="#AWS">LEARN ABOUT CLOUD PROVIDER and SERVERLESS</a>
+- <a href="#AWS">LEARN ABOUT SERVERLESS</a>
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B300h-blue">
 <br>
