@@ -99,9 +99,9 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 ![100%](https://progress-bar.dev/100/?title=Done)
 |status| Project  | Technologies | Repository                                    | Demo |
 | ---  | -------- | ------------ | --------------------------------------------- | ---- |
-| [ ]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo](https://yousefmaher179.github.io/Appie/) |
-| [ ]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo](https://yousefmaher179.github.io/Task-of-level-2/) |
-| [ ]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo](https://cars-strore.web.app/) |
-| [ ]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo](https://notes-application-n7uy.onrender.com) |
+| [x]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo](https://yousefmaher179.github.io/Appie/) |
+| [x]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo](https://yousefmaher179.github.io/Task-of-level-2/) |
+| [x]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo](https://cars-strore.web.app/) |
+| [x]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo](https://notes-application-n7uy.onrender.com) |
 
 
