@@ -2,7 +2,6 @@ const crypto = require("crypto");
 const bcrypt = require("bcryptjs");
 const sendgridMail = require("@sendgrid/mail");
 sendgridMail.setApiKey(
-  "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"
 );
 
 const User = require("../models/user");
